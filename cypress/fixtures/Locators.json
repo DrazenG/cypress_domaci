@@ -1,0 +1,23 @@
+{
+    "Header" : {
+        "Login" :".nav-link",
+        "Register" : ".nav-link"
+    },
+    "Login" : {
+        "Email" : "#email",
+        "Password" : "#password",
+        "Submit" : ".btn"
+    },
+    "Registration" : {
+
+        "FirstName" : "#first-name",
+        "LastName" : "#last-name",
+        "Password" : "#password",
+        "ConfirmPassword" : "#password-confirmation",
+        "Submit" : ".btn", 
+        "CheckBox" : ".form-check-input" ,
+        "FillField" : "Please fill out this field.",
+        "Email" : "#email"
+
+    }
+}
